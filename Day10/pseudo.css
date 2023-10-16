@@ -1,0 +1,41 @@
+button{
+    background-color:brown;
+}
+
+button:hover{
+    background-color:darkblue;
+    border:10px;
+    padding:10px;
+    margin:5px;
+}
+
+span{
+    display: block;
+    border: 1px solid;
+    padding: 4px;
+    mrgin: 8px;
+}
+
+span:nth-child(odd){
+    background-color:aqua;
+}
+
+span:nth-child(odd):active{
+    background-color:blue;
+}
+
+p::first-line{
+    font-weight:bold;
+}
+
+div::before{
+    content: "Instance";
+    color: darkmagenta;
+}
+
+a:link{
+    color:red;
+}
+
+
+

@@ -1,0 +1,49 @@
+.main{
+    margin:10px;
+    padding:10px;
+    border: 10px red;
+    display:inline;
+}
+
+.sub{
+    margin:15px;
+    padding:10px;
+    border: 20px red;
+    display:block;
+}
+
+
+#firstName{
+    background-color:brown;
+}
+
+#lastName{
+    background-color:blueviolet;
+}
+
+#degree{
+    background-color:chartreuse;
+}
+
+#disgnation{
+    background-color:antiquewhite;
+}
+
+#block1{
+    background-color:chocolate;
+}
+
+#block2{
+    background-color:rgb(30, 210, 75);
+}
+
+
+#block3{
+    background-color:rgb(84, 30, 210);
+}
+
+
+#block4{
+    background-color:indigo;
+}
+

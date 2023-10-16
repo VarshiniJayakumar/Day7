@@ -1,0 +1,38 @@
+p{
+    width: 60ch;
+}   
+
+#parent{
+    width:50%;
+    border: 2px solid  blue;
+}
+
+#anime{
+    width:40%;
+    background-color:blueviolet;
+}
+
+#food{
+    width: 5ovw;
+    background-color:brown;
+}
+
+#career{
+    width: 15rem;
+    background-color:red;
+}
+
+#parents{
+    width: 50vh;
+    background-color:burlywood;
+}
+
+#focus{
+    width: 50rem;
+    background-color:green;
+}
+
+div{
+    margin:10px;
+    color: yellow;
+}
